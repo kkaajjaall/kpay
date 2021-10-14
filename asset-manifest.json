@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kpay/static/css/main.5abf32bf.chunk.css",
+    "main.js": "/kpay/static/js/main.896b44f2.chunk.js",
+    "main.js.map": "/kpay/static/js/main.896b44f2.chunk.js.map",
+    "runtime-main.js": "/kpay/static/js/runtime-main.3a120bc0.js",
+    "runtime-main.js.map": "/kpay/static/js/runtime-main.3a120bc0.js.map",
+    "static/js/2.20671202.chunk.js": "/kpay/static/js/2.20671202.chunk.js",
+    "static/js/2.20671202.chunk.js.map": "/kpay/static/js/2.20671202.chunk.js.map",
+    "index.html": "/kpay/index.html",
+    "static/css/main.5abf32bf.chunk.css.map": "/kpay/static/css/main.5abf32bf.chunk.css.map",
+    "static/js/2.20671202.chunk.js.LICENSE.txt": "/kpay/static/js/2.20671202.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a120bc0.js",
+    "static/js/2.20671202.chunk.js",
+    "static/css/main.5abf32bf.chunk.css",
+    "static/js/main.896b44f2.chunk.js"
+  ]
+}
